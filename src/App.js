@@ -7,7 +7,7 @@ import './App.css';
 import axios from 'axios';
 
 // Используем полный URL с HTTPS
-const API_KEY = '';
+const API_KEY = '352b6436d6ba4a54865171011251003';
 const BASE_URL = 'https://api.weatherapi.com/v1';
 
 const CITIES = [
